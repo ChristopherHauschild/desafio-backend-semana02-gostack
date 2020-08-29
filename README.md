@@ -6,9 +6,9 @@
   <img src="https://img.shields.io/static/v1?label=nodejs&message=backend&color=success&style=for-the-badge&logo=NODE.JS"/>
 </div>
 
-# <p align="center">Desafio - Iniciando backend da aplicação</p>
+# <p align="center">Desafio - Database upload</p>
 
-:information_source: <i>Códigos desenvolvidos durante o desafio Iniciando backend da aplicacão, na segunda semana do Bootcamp GoStack 13, ofertado pela plataforma de ensino [Rocketseat](https://rocketseat.com.br/).</i>
+:information_source: <i>Códigos desenvolvidos durante o desafio Database upload, na segunda semana do Bootcamp GoStack 13, ofertado pela plataforma de ensino [Rocketseat](https://rocketseat.com.br/).</i>
 
 <p align="justify">
 Esse desafio tem como objetivo fixar os conhecimentos aprendidos em Node.js junto ao TypeScript, utilizando o conceito de models, repositories e services, tudo isso incluindo o uso de banco de dados com o TypeORM e envio de arquivos com o Multer!. A mesma consiste numa aplicação para armazenar transações financeiras de entrada e saída, permitindo o cadastro e a listagem dessas transações.
